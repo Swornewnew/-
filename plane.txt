@@ -1,0 +1,4 @@
+MU5122 beijing shanghai 9.6.18:00 9.6.20:15 2150 0.7 5
+MU5123 beijing shanghai 9.6.18:30 9.6.21:00 2150 0.8 3
+MU5124 shanghai beijing  9.6.19:30 9.6.22:00 2150 0.9 0
+MU5125 shanghai beijing 9.6.20:30 9.6.23:00 2150 0.6 2
